@@ -6,4 +6,4 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: https://auth.widesoftware.com.br/auth/realms/master
+          issuer-uri: ''
